@@ -1,0 +1,1 @@
+Project to practice CONTENTFUL CMS and webhooks
